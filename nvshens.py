@@ -78,3 +78,4 @@ class NvShen(object):
 if __name__ == '__main__':
     n = NvShen()
     n.main()
+    print('结束')
